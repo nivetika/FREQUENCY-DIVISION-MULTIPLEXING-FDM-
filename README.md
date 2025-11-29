@@ -116,9 +116,9 @@ subplot(3,2,6); plot(t,dm6); title("Recovered Signal 6");
 
 ## TABULATION
 
-<img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/ea75fc09-2ead-4a83-9647-fec01c6e71cf" />
-<img width="940" height="589" alt="image" src="https://github.com/user-attachments/assets/755c110c-bb49-44f9-a8e1-ab4356c820bf" />
-<img width="940" height="267" alt="image" src="https://github.com/user-attachments/assets/4651d297-f0f0-4b4a-95b6-72e17b9d1088" />
+<img width="1280" height="663" alt="image" src="https://github.com/user-attachments/assets/6fdb4490-2ca3-4458-a793-677a592e3b9a" />
+<img width="1280" height="745" alt="image" src="https://github.com/user-attachments/assets/06f5384a-26b0-4e6e-ac7d-23264ab25c40" />
+<img width="879" height="310" alt="image" src="https://github.com/user-attachments/assets/faa39cf0-049f-40e9-a811-b36e57e62bec" />
 
 ## RESULT
 
